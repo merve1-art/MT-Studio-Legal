@@ -1,9 +1,9 @@
 Privacy Policy
 Effective Date: January 29, 2026
 
-1. Introduction: Welcome to Yazboz Plus, developed by MT Studio. We are committed to protecting your privacy and ensuring you have a safe experience using our App.
+1. Introduction: Welcome to Yazboz Plus, developed by Merve Tuncer Ozer operating as MT Studio. We are committed to protecting your privacy and ensuring you have a safe experience using our App.
 
-2. Data Collection and Usage: YazbozPlus uses Google Analytics for Firebase to help us analyze how users interact with the App. This information is used solely to improve app performance and user experience.
+2. Data Collection and Usage: Yazboz Plus uses Google Analytics for Firebase to help us analyze how users interact with the App. This information is used solely to improve app performance and user experience.
 The data collected is anonymous and includes technical information such as device model, OS version, and app usage statistics.
 
 3. Personal Information & Tracking: We do not collect any personally identifiable information (such as your name, address, or phone number).
